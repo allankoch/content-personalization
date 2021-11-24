@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Content Personalization")]
 [assembly: AssemblyDescription("Simple and flexible API for calculating persona scores for weighted visited pages")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Charlie Tango A/S")]
+[assembly: AssemblyCompany("Allan Koch")]
 [assembly: AssemblyProduct("ContentPersonalization.Core")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
